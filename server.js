@@ -5,6 +5,8 @@ const jwt = require('jsonwebtoken');
 const cors = require('cors');
 const User = require('./models/User');
 const Service = require('./models/Service');
+const Bike = require('./models/Bikes');
+const SerdataModel = require('./models/Userservice');
 const app = express();
 app.use(express.json());
 app.use(cors());
@@ -89,6 +91,16 @@ app.get('/protected', checkTokenExpiration, async (req, res) => {
   }
 });
 
+app.get('/bikes',async (req, res) => {
+  try{
+    const bikes = await Bike.find();
+    res.json(bikes);
+  } catch (error){
+    console.error(error);
+    res.status(500).json({ error: 'Internal Server Error' });
+  }
+})
+
 app.get('/services', async (req, res) => {
   try {
     const services = await Service.find();
@@ -99,7 +111,28 @@ app.get('/services', async (req, res) => {
   }
 });
 
+app.post('/savebike', async (req, res) => {
+  try {
+    console.log(req.body);
+    const { emailid, selectedBike, userService } = req.body;
 
+    const existingUser = await SerdataModel.findOne({ emailid });
+
+    if (existingUser) {
+      existingUser.model.push(selectedBike);
+      existingUser.service.push(userService);
+      const updatedUser = await existingUser.save();
+      res.status(200).json(updatedUser);
+    } else {
+      const newUser = new SerdataModel({ emailid, model: [selectedBike], service: [userService] });
+      const savedUser = await newUser.save();
+      res.status(201).json(savedUser);
+    }
+  } catch (error) {
+    console.error(error);
+    res.status(500).json({ error: 'Internal Server Error' });
+  }
+});
 
 app.use((err, req, res, next) => {
   console.error(err.stack);
