@@ -1,1903 +1,865 @@
 [{
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60ca"
-  },
   "": 0,
   "name": "Royal Enfield Hunter 350",
-  "brand": "Royal Enfield",
-  "price": 149900,
-  "max torque": 27,
-  "transmission": "5 speed manual"
+  "brand": "Royal Enfield"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60cb"
-  },
   "": 1,
   "name": "Royal Enfield Classic 350",
-  "brand": "Royal Enfield",
-  "price": 190229,
-  "max torque": 27,
-  "transmission": "5 speed manual"
+  "brand": "Royal Enfield"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60cc"
-  },
   "": 2,
   "name": "Royal Enfield Bullet 350",
-  "brand": "Royal Enfield",
-  "price": 157391,
-  "max torque": 28,
-  "transmission": "5 speed manual"
+  "brand": "Royal Enfield"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60cd"
-  },
   "": 3,
   "name": "Royal Enfield Continental GT 650",
-  "brand": "Royal Enfield",
-  "price": 304945,
-  "max torque": 52,
-  "transmission": "6 speed manual"
+  "brand": "Royal Enfield"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60ce"
-  },
   "": 4,
   "name": "Royal Enfield Meteor 350",
-  "brand": "Royal Enfield",
-  "price": 200924,
-  "max torque": 27,
-  "transmission": "5 speed manual"
+  "brand": "Royal Enfield"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60cf"
-  },
   "": 5,
   "name": "Royal Enfield Himalayan",
-  "brand": "Royal Enfield",
-  "price": 215869,
-  "max torque": 32,
-  "transmission": "5 speed manual"
+  "brand": "Royal Enfield"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60d0"
-  },
   "": 6,
   "name": "Royal Enfield Interceptor 650",
-  "brand": "Royal Enfield",
-  "price": 288141,
-  "max torque": 52,
-  "transmission": "6 speed manual"
+  "brand": "Royal Enfield"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60d1"
-  },
   "": 7,
   "name": "Royal Enfield Scram 411",
-  "brand": "Royal Enfield",
-  "price": 202923,
-  "max torque": 32,
-  "transmission": "5 speed manual"
+  "brand": "Royal Enfield"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60d2"
-  },
   "": 8,
   "name": "TVS Raider 125",
-  "brand": "TVS",
-  "price": 90524,
-  "max torque": 11.2,
-  "transmission": "5 speed manual"
+  "brand": "TVS"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60d3"
-  },
   "": 9,
   "name": "Apache",
-  "brand": "TVS",
-  "price": 118381,
-  "max torque": 13.9,
-  "transmission": "5 speed manual"
+  "brand": "TVS"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60d4"
-  },
   "": 10,
   "name": "Apache",
-  "brand": "TVS",
-  "price": 122410,
-  "max torque": 14.73,
-  "transmission": "5 speed manual"
+  "brand": "TVS"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60d5"
-  },
   "": 11,
   "name": "TVS Ronin",
-  "brand": "TVS",
-  "price": 149000,
-  "max torque": 19.93,
-  "transmission": "5 speed manual"
+  "brand": "TVS"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60d6"
-  },
   "": 12,
   "name": "TVS Ntorq 125",
-  "brand": "TVS",
-  "price": 85995,
-  "max torque": 10.5,
-  "transmission": "automatic"
+  "brand": "TVS"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60d7"
-  },
   "": 13,
   "name": "TVS Sport",
-  "brand": "TVS",
-  "price": 61577,
-  "max torque": 8.7,
-  "transmission": "4 speed manual"
+  "brand": "TVS"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60d8"
-  },
   "": 14,
   "name": "Apache",
-  "brand": "TVS",
-  "price": 264987,
-  "max torque": 27.3,
-  "transmission": "6 speed manual"
+  "brand": "TVS"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60d9"
-  },
   "": 15,
   "name": "Apache",
-  "brand": "TVS",
-  "price": 141058,
-  "max torque": 17.25,
-  "transmission": "5 speed manual"
+  "brand": "TVS"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60da"
-  },
   "": 16,
   "name": "TVS Jupiter",
-  "brand": "TVS",
-  "price": 76461,
-  "max torque": 8.8,
-  "transmission": "automatic"
+  "brand": "TVS"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60db"
-  },
   "": 17,
   "name": "TVS Jupiter 125",
-  "brand": "TVS",
-  "price": 84568,
-  "max torque": 10.5,
-  "transmission": "automatic"
+  "brand": "TVS"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60dc"
-  },
   "": 18,
   "name": "Apache",
-  "brand": "TVS",
-  "price": 121725,
-  "max torque": 15.5,
-  "transmission": "5 speed manual"
+  "brand": "TVS"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60dd"
-  },
   "": 19,
   "name": "TVS Star City Plus",
-  "brand": "TVS",
-  "price": 73481,
-  "max torque": 8.7,
-  "transmission": "4 speed manual"
+  "brand": "TVS"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60de"
-  },
   "": 20,
   "name": "TVS Radeon",
-  "brand": "TVS",
-  "price": 71674,
-  "max torque": 8.7,
-  "transmission": "4 speed manual"
+  "brand": "TVS"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60df"
-  },
   "": 21,
   "name": "TVS Scooty Pep Plus",
-  "brand": "TVS",
-  "price": 64580,
-  "max torque": 6.5,
-  "transmission": "automatic"
+  "brand": "TVS"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60e0"
-  },
   "": 22,
   "name": "TVS XL100 Heavy Duty",
-  "brand": "TVS",
-  "price": 47140,
-  "max torque": 6.5,
-  "transmission": "automatic"
+  "brand": "TVS"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60e1"
-  },
   "": 23,
   "name": "TVS Scooty Zest 110",
-  "brand": "TVS",
-  "price": 75471,
-  "max torque": 8.8,
-  "transmission": "automatic"
+  "brand": "TVS"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60e2"
-  },
   "": 24,
   "name": "TVS XL100 Comfort",
-  "brand": "TVS",
-  "price": 45648,
-  "max torque": 6.5,
-  "transmission": "automatic"
+  "brand": "TVS"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60e3"
-  },
   "": 25,
   "name": "Splendor",
-  "brand": "Hero",
-  "price": 71571,
-  "max torque": 8.05,
-  "transmission": "4 speed manual"
+  "brand": "Hero"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60e4"
-  },
   "": 26,
   "name": "Hero Splendor Plus Xtec",
-  "brand": "Hero",
-  "price": 76381,
-  "max torque": 8.05,
-  "transmission": "4 speed manual"
+  "brand": "Hero"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60e5"
-  },
   "": 27,
   "name": "Hero HF Deluxe",
-  "brand": "Hero",
-  "price": 60163,
-  "max torque": 8.05,
-  "transmission": "4 speed manual"
+  "brand": "Hero"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60e6"
-  },
   "": 28,
   "name": "Splendor",
-  "brand": "Hero",
-  "price": 78627,
-  "max torque": 10.6,
-  "transmission": "5 speed manual"
+  "brand": "Hero"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60e7"
-  },
   "": 29,
   "name": "Hero Xtreme 160R",
-  "brand": "Hero",
-  "price": 119570,
-  "max torque": 14,
-  "transmission": "5 speed manual"
+  "brand": "Hero"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60e8"
-  },
   "": 30,
   "name": "Hero Glamour",
-  "brand": "Hero",
-  "price": 79029,
-  "max torque": 10.6,
-  "transmission": "5 speed manual"
+  "brand": "Hero"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60e9"
-  },
   "": 31,
   "name": "Hero Passion Pro",
-  "brand": "Hero",
-  "price": 73432,
-  "max torque": 9.89,
-  "transmission": "4 speed manual"
+  "brand": "Hero"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60ea"
-  },
   "": 32,
   "name": "Hero Xpulse 200 4V",
-  "brand": "Hero",
-  "price": 137436,
-  "max torque": 17.35,
-  "transmission": "5 speed manual"
+  "brand": "Hero"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60eb"
-  },
   "": 33,
   "name": "Hero Pleasure +",
-  "brand": "Hero",
-  "price": 68847,
-  "max torque": 8.7,
-  "transmission": "automatic"
+  "brand": "Hero"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60ec"
-  },
   "": 34,
   "name": "Hero Passion Xtec",
-  "brand": "Hero",
-  "price": 80746,
-  "max torque": 9.79,
-  "transmission": "4 speed manual"
+  "brand": "Hero"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60ed"
-  },
   "": 35,
   "name": "Hero Glamour Xtec",
-  "brand": "Hero",
-  "price": 91033,
-  "max torque": 10.6,
-  "transmission": "5 speed manual"
+  "brand": "Hero"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60ee"
-  },
   "": 36,
   "name": "Hero Xpulse 200T 4V",
-  "brand": "Hero",
-  "price": 133285,
-  "max torque": 17.3,
-  "transmission": "5 speed manual"
+  "brand": "Hero"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60ef"
-  },
   "": 37,
   "name": "Hero Xtreme 200S",
-  "brand": "Hero",
-  "price": 135257,
-  "max torque": 16.45,
-  "transmission": "5 speed manual"
+  "brand": "Hero"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60f0"
-  },
   "": 38,
   "name": "Hero Pleasure + Xtec",
-  "brand": "Hero",
-  "price": 78913,
-  "max torque": 8.7,
-  "transmission": "automatic"
+  "brand": "Hero"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60f1"
-  },
   "": 39,
   "name": "Hero Maestro Edge 125",
-  "brand": "Hero",
-  "price": 87827,
-  "max torque": 10.4,
-  "transmission": "automatic"
+  "brand": "Hero"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60f2"
-  },
   "": 40,
   "name": "Hero Destini 125 Xtec",
-  "brand": "Hero",
-  "price": 83842,
-  "max torque": 10.4,
-  "transmission": "automatic"
+  "brand": "Hero"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60f3"
-  },
   "": 41,
   "name": "Hero Maestro Edge 110",
-  "brand": "Hero",
-  "price": 70899,
-  "max torque": 8.7,
-  "transmission": "automatic"
+  "brand": "Hero"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60f4"
-  },
   "": 42,
   "name": "Pulsar",
-  "brand": "Bajaj",
-  "price": 82712,
-  "max torque": 10.8,
-  "transmission": "5 speed manual"
+  "brand": "Bajaj"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60f5"
-  },
   "": 43,
   "name": "Pulsar",
-  "brand": "Bajaj",
-  "price": 105884,
-  "max torque": 13.25,
-  "transmission": "5 speed manual"
+  "brand": "Bajaj"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60f6"
-  },
   "": 44,
   "name": "Pulsar",
-  "brand": "Bajaj",
-  "price": 123006,
-  "max torque": 14.65,
-  "transmission": "5 speed manual"
+  "brand": "Bajaj"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60f7"
-  },
   "": 45,
   "name": "Pulsar",
-  "brand": "Bajaj",
-  "price": 171256,
-  "max torque": 18.7,
-  "transmission": "6 speed manual"
+  "brand": "Bajaj"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60f8"
-  },
   "": 46,
   "name": "Pulsar",
-  "brand": "Bajaj",
-  "price": 105597,
-  "max torque": 11,
-  "transmission": "5 speed manual"
+  "brand": "Bajaj"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60f9"
-  },
   "": 47,
   "name": "Platina",
-  "brand": "Bajaj",
-  "price": 52734,
-  "max torque": 8.34,
-  "transmission": "4 speed manual"
+  "brand": "Bajaj"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60fa"
-  },
   "": 48,
   "name": "Pulsar",
-  "brand": "Bajaj",
-  "price": 142055,
-  "max torque": 18.74,
-  "transmission": "6 speed manual"
+  "brand": "Bajaj"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60fb"
-  },
   "": 49,
   "name": "Pulsar",
-  "brand": "Bajaj",
-  "price": 124604,
-  "max torque": 14.6,
-  "transmission": "5 speed manual"
+  "brand": "Bajaj"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60fc"
-  },
   "": 50,
   "name": "Bajaj Dominar 400",
-  "brand": "Bajaj",
-  "price": 222744,
-  "max torque": 35,
-  "transmission": "6 speed manual"
+  "brand": "Bajaj"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60fd"
-  },
   "": 51,
   "name": "Bajaj Dominar 250",
-  "brand": "Bajaj",
-  "price": 175054,
-  "max torque": 23.5,
-  "transmission": "6 speed manual"
+  "brand": "Bajaj"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60fe"
-  },
   "": 52,
   "name": "Platina",
-  "brand": "Bajaj",
-  "price": 67659,
-  "max torque": 9.81,
-  "transmission": "5 speed manual"
+  "brand": "Bajaj"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b60ff"
-  },
   "": 53,
   "name": "Pulsar",
-  "brand": "Bajaj",
-  "price": 144285,
-  "max torque": 21.5,
-  "transmission": "5 speed manual"
+  "brand": "Bajaj"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6100"
-  },
   "": 54,
   "name": "Bajaj CT 110",
-  "brand": "Bajaj",
-  "price": 59041,
-  "max torque": 9.81,
-  "transmission": "4 speed manual"
+  "brand": "Bajaj"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6101"
-  },
   "": 55,
   "name": "Bajaj CT 125X",
-  "brand": "Bajaj",
-  "price": 72023,
-  "max torque": 11,
-  "transmission": "5 speed manual"
+  "brand": "Bajaj"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6102"
-  },
   "": 56,
   "name": "Avenger",
-  "brand": "Bajaj",
-  "price": 112562,
-  "max torque": 13.7,
-  "transmission": "5 speed manual"
+  "brand": "Bajaj"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6103"
-  },
   "": 57,
   "name": "Pulsar",
-  "brand": "Bajaj",
-  "price": 144449,
-  "max torque": 21.5,
-  "transmission": "5 speed manual"
+  "brand": "Bajaj"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6104"
-  },
   "": 58,
   "name": "Avenger",
-  "brand": "Bajaj",
-  "price": 138999,
-  "max torque": 17.55,
-  "transmission": "5 speed manual"
+  "brand": "Bajaj"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6105"
-  },
   "": 59,
   "name": "Honda SP 125",
-  "brand": "Honda",
-  "price": 83086,
-  "max torque": 10.9,
-  "transmission": "5 speed manual"
+  "brand": "Honda"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6106"
-  },
   "": 60,
   "name": "Activa",
-  "brand": "Honda",
-  "price": 73663,
-  "max torque": 8.84,
-  "transmission": "automatic"
+  "brand": "Honda"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6107"
-  },
   "": 61,
   "name": "Honda Shine",
-  "brand": "Honda",
-  "price": 78000,
-  "max torque": 11,
-  "transmission": "5 speed manual"
+  "brand": "Honda"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6108"
-  },
   "": 62,
   "name": "Honda Unicorn",
-  "brand": "Honda",
-  "price": 104982,
-  "max torque": 14,
-  "transmission": "5 speed manual"
+  "brand": "Honda"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6109"
-  },
   "": 63,
   "name": "Honda Dio",
-  "brand": "Honda",
-  "price": 71502,
-  "max torque": 9,
-  "transmission": "automatic"
+  "brand": "Honda"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b610a"
-  },
   "": 64,
   "name": "Honda Hornet 2.0",
-  "brand": "Honda",
-  "price": 136391,
-  "max torque": 16.1,
-  "transmission": "5 speed manual"
+  "brand": "Honda"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b610b"
-  },
   "": 65,
   "name": "Honda Hness CB350",
-  "brand": "Honda",
-  "price": 200349,
-  "max torque": 30,
-  "transmission": "5 speed manual"
+  "brand": "Honda"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b610c"
-  },
   "": 66,
   "name": "Activa",
-  "brand": "Honda",
-  "price": 78396,
-  "max torque": 10.3,
-  "transmission": "automatic"
+  "brand": "Honda"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b610d"
-  },
   "": 67,
   "name": "Honda Livo",
-  "brand": "Honda",
-  "price": 75659,
-  "max torque": 9.3,
-  "transmission": "4 speed manual"
+  "brand": "Honda"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b610e"
-  },
   "": 68,
   "name": "Honda X-Blade",
-  "brand": "Honda",
-  "price": 115759,
-  "max torque": 14.7,
-  "transmission": "5 speed manual"
+  "brand": "Honda"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b610f"
-  },
   "": 69,
   "name": "Honda CB300F",
-  "brand": "Honda",
-  "price": 226217,
-  "max torque": 25.6,
-  "transmission": "6 speed manual"
+  "brand": "Honda"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6110"
-  },
   "": 70,
   "name": "Honda CB350RS",
-  "brand": "Honda",
-  "price": 205107,
-  "max torque": 30,
-  "transmission": "5 speed manual"
+  "brand": "Honda"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6111"
-  },
   "": 71,
   "name": "Honda CB300R",
-  "brand": "Honda",
-  "price": 277332,
-  "max torque": 27.5,
-  "transmission": "6 speed manual"
+  "brand": "Honda"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6112"
-  },
   "": 72,
   "name": "Honda CD 110 Dream",
-  "brand": "Honda",
-  "price": 71306,
-  "max torque": 9.3,
-  "transmission": "4 speed manual"
+  "brand": "Honda"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6113"
-  },
   "": 73,
   "name": "CBR",
-  "brand": "Honda",
-  "price": 934817,
-  "max torque": 57.5,
-  "transmission": "6 speed manual"
+  "brand": "Honda"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6114"
-  },
   "": 74,
   "name": "Honda CB200X",
-  "brand": "Honda",
-  "price": 148554,
-  "max torque": 16.1,
-  "transmission": "5 speed manual"
+  "brand": "Honda"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6115"
-  },
   "": 75,
   "name": "Honda Grazia",
-  "brand": "Honda",
-  "price": 82398,
-  "max torque": 10.3,
-  "transmission": "automatic"
+  "brand": "Honda"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6116"
-  },
   "": 76,
   "name": "CBR",
-  "brand": "Honda",
-  "price": 2372222,
-  "max torque": 113,
-  "transmission": "6 speed manual"
+  "brand": "Honda"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6117"
-  },
   "": 77,
   "name": "Honda Goldwing",
-  "brand": "Honda",
-  "price": 3988635,
-  "max torque": 170,
-  "transmission": "7 speed automatic"
+  "brand": "Honda"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6118"
-  },
   "": 78,
   "name": "Honda Africa Twin",
-  "brand": "Honda",
-  "price": 1601500,
-  "max torque": 103,
-  "transmission": "6 speed manual"
+  "brand": "Honda"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6119"
-  },
   "": 79,
   "name": "Honda CB650R",
-  "brand": "Honda",
-  "price": 914337,
-  "max torque": 57.5,
-  "transmission": "6 speed manual"
+  "brand": "Honda"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b611a"
-  },
   "": 80,
   "name": "Yamaha MT 15 V2",
-  "brand": "Yamaha",
-  "price": 165390,
-  "max torque": 14.1,
-  "transmission": "6 speed manual"
+  "brand": "Yamaha"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b611b"
-  },
   "": 81,
   "name": "Yamaha R15 V4",
-  "brand": "Yamaha",
-  "price": 180687,
-  "max torque": 14.2,
-  "transmission": "6 speed manual"
+  "brand": "Yamaha"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b611c"
-  },
   "": 82,
   "name": "Yamaha FZ S FI",
-  "brand": "Yamaha",
-  "price": 121979,
-  "max torque": 13.3,
-  "transmission": "5 speed manual"
+  "brand": "Yamaha"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b611d"
-  },
   "": 83,
   "name": "Yamaha FZ FI",
-  "brand": "Yamaha",
-  "price": 113636,
-  "max torque": 13.3,
-  "transmission": "5 speed manual"
+  "brand": "Yamaha"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b611e"
-  },
   "": 84,
   "name": "Yamaha R15S",
-  "brand": "Yamaha",
-  "price": 163734,
-  "max torque": 14.1,
-  "transmission": "6 speed manual"
+  "brand": "Yamaha"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b611f"
-  },
   "": 85,
   "name": "Yamaha FZ X",
-  "brand": "Yamaha",
-  "price": 135240,
-  "max torque": 13.3,
-  "transmission": "5 speed manual"
+  "brand": "Yamaha"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6120"
-  },
   "": 86,
   "name": "Yamaha FZ25",
-  "brand": "Yamaha",
-  "price": 150623,
-  "max torque": 20.1,
-  "transmission": "5 speed manual"
+  "brand": "Yamaha"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6121"
-  },
   "": 87,
   "name": "Yamaha Ray ZR 125",
-  "brand": "Yamaha",
-  "price": 83273,
-  "max torque": 10.3,
-  "transmission": "automatic"
+  "brand": "Yamaha"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6122"
-  },
   "": 88,
   "name": "Yamaha Fascino 125",
-  "brand": "Yamaha",
-  "price": 79456,
-  "max torque": 10.3,
-  "transmission": "automatic"
+  "brand": "Yamaha"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6123"
-  },
   "": 89,
   "name": "Yamaha Aerox 155",
-  "brand": "Yamaha",
-  "price": 141554,
-  "max torque": 13.9,
-  "transmission": "automatic"
+  "brand": "Yamaha"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6124"
-  },
   "": 90,
   "name": "Suzuki Access 125",
-  "brand": "Suzuki",
-  "price": 77378,
-  "max torque": 10,
-  "transmission": "automatic"
+  "brand": "Suzuki"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6125"
-  },
   "": 91,
   "name": "Suzuki Gixxer SF",
-  "brand": "Suzuki",
-  "price": 135702,
-  "max torque": 13.8,
-  "transmission": "5 speed manual"
+  "brand": "Suzuki"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6126"
-  },
   "": 92,
   "name": "Suzuki Burgman Street 125",
-  "brand": "Suzuki",
-  "price": 89436,
-  "max torque": 10,
-  "transmission": "automatic"
+  "brand": "Suzuki"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6127"
-  },
   "": 93,
   "name": "Suzuki Gixxer",
-  "brand": "Suzuki",
-  "price": 130718,
-  "max torque": 13.8,
-  "transmission": "5 speed manual"
+  "brand": "Suzuki"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6128"
-  },
   "": 94,
   "name": "Suzuki Gixxer SF 250",
-  "brand": "Suzuki",
-  "price": 188738,
-  "max torque": 22.2,
-  "transmission": "6 speed manual"
+  "brand": "Suzuki"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6129"
-  },
   "": 95,
   "name": "Suzuki Gixxer 250",
-  "brand": "Suzuki",
-  "price": 177973,
-  "max torque": 22.2,
-  "transmission": "6 speed manual"
+  "brand": "Suzuki"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b612a"
-  },
   "": 96,
   "name": "Suzuki Katana",
-  "brand": "Suzuki",
-  "price": 1366892,
-  "max torque": 106,
-  "transmission": "6 speed manual"
+  "brand": "Suzuki"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b612b"
-  },
   "": 97,
   "name": "Suzuki V-Strom 650 XT",
-  "brand": "Suzuki",
-  "price": 892801,
-  "max torque": 62,
-  "transmission": "6 speed manual"
+  "brand": "Suzuki"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b612c"
-  },
   "": 98,
   "name": "Duke",
-  "brand": "KTM",
-  "price": 190851,
-  "max torque": 19.3,
-  "transmission": "6 speed manual"
+  "brand": "KTM"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b612d"
-  },
   "": 99,
   "name": "Duke",
-  "brand": "KTM",
-  "price": 236090,
-  "max torque": 24,
-  "transmission": "6 speed manual"
+  "brand": "KTM"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b612e"
-  },
   "": 100,
   "name": "Duke",
-  "brand": "KTM",
-  "price": 295182,
-  "max torque": 37,
-  "transmission": "6 speed manual"
+  "brand": "KTM"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b612f"
-  },
   "": 101,
   "name": "Duke",
-  "brand": "KTM",
-  "price": 176937,
-  "max torque": 12,
-  "transmission": "6 speed manual"
+  "brand": "KTM"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6130"
-  },
   "": 103,
   "name": "KTM 390 Adventure",
-  "brand": "KTM",
-  "price": 337292,
-  "max torque": 37,
-  "transmission": "6 speed manual"
+  "brand": "KTM"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6131"
-  },
   "": 104,
   "name": "KTM 250 Adventure",
-  "brand": "KTM",
-  "price": 242595,
-  "max torque": 24,
-  "transmission": "6 speed manual"
+  "brand": "KTM"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6132"
-  },
   "": 105,
   "name": "Jawa 42",
-  "brand": "Jawa",
-  "price": 174573,
-  "max torque": 26.84,
-  "transmission": "6 speed manual"
+  "brand": "Jawa"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6133"
-  },
   "": 106,
   "name": "Jawa Standard",
-  "brand": "Jawa",
-  "price": 183648,
-  "max torque": 27.05,
-  "transmission": "6 speed manual"
+  "brand": "Jawa"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6134"
-  },
   "": 107,
   "name": "Ninja",
-  "brand": "Kawasaki",
-  "price": 7990000,
-  "max torque": 165,
-  "transmission": "6 speed manual"
+  "brand": "Kawasaki"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6135"
-  },
   "": 108,
   "name": "Ninja",
-  "brand": "Kawasaki",
-  "price": 340000,
-  "max torque": 26.1,
-  "transmission": "6 speed manual"
+  "brand": "Kawasaki"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6136"
-  },
   "": 109,
   "name": "Ninja",
-  "brand": "Kawasaki",
-  "price": 1614985,
-  "max torque": 114.9,
-  "transmission": "6 speed manual"
+  "brand": "Kawasaki"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6137"
-  },
   "": 110,
   "name": "Kawasaki Z900",
-  "brand": "Kawasaki",
-  "price": 902000,
-  "max torque": 98.6,
-  "transmission": "6 speed manual"
+  "brand": "Kawasaki"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6138"
-  },
   "": 111,
   "name": "Ninja",
-  "brand": "Kawasaki",
-  "price": 513959,
-  "max torque": 37,
-  "transmission": "6 speed manual"
+  "brand": "Kawasaki"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6139"
-  },
   "": 112,
   "name": "Kawasaki Ninja 650",
-  "brand": "Kawasaki",
-  "price": 712000,
-  "max torque": 64,
-  "transmission": "6 speed manual"
+  "brand": "Kawasaki"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b613a"
-  },
   "": 113,
   "name": "Kawasaki Z650",
-  "brand": "Kawasaki",
-  "price": 643034,
-  "max torque": 64,
-  "transmission": "6 speed manual"
+  "brand": "Kawasaki"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b613b"
-  },
   "": 114,
   "name": "Ninja",
-  "brand": "Kawasaki",
-  "price": 1209967,
-  "max torque": 111,
-  "transmission": "6 speed manual"
+  "brand": "Kawasaki"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b613c"
-  },
   "": 115,
   "name": "Kawasaki Vulcan S",
-  "brand": "Kawasaki",
-  "price": 640000,
-  "max torque": 62.4,
-  "transmission": "6 speed manual"
+  "brand": "Kawasaki"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b613d"
-  },
   "": 116,
   "name": "Kawasaki Z H2",
-  "brand": "Kawasaki",
-  "price": 2301733,
-  "max torque": 137,
-  "transmission": "6 speed manual"
+  "brand": "Kawasaki"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b613e"
-  },
   "": 117,
   "name": "Kawasaki Z650RS",
-  "brand": "Kawasaki",
-  "price": 692036,
-  "max torque": 64,
-  "transmission": "6 speed manual"
+  "brand": "Kawasaki"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b613f"
-  },
   "": 118,
   "name": "Kawasaki Versys 650",
-  "brand": "Kawasaki",
-  "price": 753951,
-  "max torque": 61,
-  "transmission": "6 speed manual"
+  "brand": "Kawasaki"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6140"
-  },
   "": 119,
   "name": "Kawasaki W800",
-  "brand": "Kawasaki",
-  "price": 732773,
-  "max torque": 62.9,
-  "transmission": "5 speed manual"
+  "brand": "Kawasaki"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6141"
-  },
   "": 120,
   "name": "Kawasaki Versys 1000",
-  "brand": "Kawasaki",
-  "price": 1219000,
-  "max torque": 102,
-  "transmission": "6 speed manual"
+  "brand": "Kawasaki"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6142"
-  },
   "": 121,
   "name": "SR",
-  "brand": "Aprilia",
-  "price": 131349,
-  "max torque": 11.6,
-  "transmission": "automatic"
+  "brand": "Aprilia"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6143"
-  },
   "": 122,
   "name": "SR",
-  "brand": "Aprilia",
-  "price": 122451,
-  "max torque": 9.7,
-  "transmission": "automatic"
+  "brand": "Aprilia"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6144"
-  },
   "": 123,
   "name": "Aprilia Storm 125",
-  "brand": "Aprilia",
-  "price": 102253,
-  "max torque": 9.6,
-  "transmission": "automatic"
+  "brand": "Aprilia"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6145"
-  },
   "": 124,
   "name": "Aprilia SXR 160",
-  "brand": "Aprilia",
-  "price": 143872,
-  "max torque": 11.6,
-  "transmission": "automatic"
+  "brand": "Aprilia"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6146"
-  },
   "": 125,
   "name": "Aprilia SXR 125",
-  "brand": "Aprilia",
-  "price": 132615,
-  "max torque": 9.2,
-  "transmission": "automatic"
+  "brand": "Aprilia"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6147"
-  },
   "": 127,
   "name": "Aprilia RSV4 1100 Factory",
-  "brand": "Aprilia",
-  "price": 2369000,
-  "max torque": 125,
-  "transmission": "6 speed manual"
+  "brand": "Aprilia"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6148"
-  },
   "": 128,
   "name": "Aprilia Tuono Factory",
-  "brand": "Aprilia",
-  "price": 2066000,
-  "max torque": 122,
-  "transmission": "6 speed manual"
+  "brand": "Aprilia"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6149"
-  },
   "": 130,
   "name": "Benelli Imperiale 400",
-  "brand": "Benelli",
-  "price": 234886,
-  "max torque": 29,
-  "transmission": "5 speed manual"
+  "brand": "Benelli"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b614a"
-  },
   "": 131,
   "name": "Benelli TRK 251",
-  "brand": "Benelli",
-  "price": 298977,
-  "max torque": 21.2,
-  "transmission": "6 speed manual"
+  "brand": "Benelli"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b614b"
-  },
   "": 132,
   "name": "Benelli 502C",
-  "brand": "Benelli",
-  "price": 579955,
-  "max torque": 46,
-  "transmission": "6 speed manual"
+  "brand": "Benelli"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b614c"
-  },
   "": 133,
   "name": "Benelli TRK 502X",
-  "brand": "Benelli",
-  "price": 629954,
-  "max torque": 46,
-  "transmission": "6 speed manual"
+  "brand": "Benelli"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b614d"
-  },
   "": 134,
   "name": "Benelli TRK 502",
-  "brand": "Benelli",
-  "price": 569881,
-  "max torque": 46,
-  "transmission": "6 speed manual"
+  "brand": "Benelli"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b614e"
-  },
   "": 135,
   "name": "Benelli Leoncino 500",
-  "brand": "Benelli",
-  "price": 554876,
-  "max torque": 46,
-  "transmission": "6 speed manual"
+  "brand": "Benelli"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b614f"
-  },
   "": 153,
   "name": "CFMoto 300NK",
-  "brand": "CFMoto",
-  "price": 229000,
-  "max torque": 25,
-  "transmission": "6 speed manual"
+  "brand": "CFMoto"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6150"
-  },
   "": 154,
   "name": "CFMoto 650NK",
-  "brand": "CFMoto",
-  "price": 429000,
-  "max torque": 54.4,
-  "transmission": "6 speed manual"
+  "brand": "CFMoto"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6151"
-  },
   "": 155,
   "name": "CFMoto 650GT",
-  "brand": "CFMoto",
-  "price": 559000,
-  "max torque": 54.4,
-  "transmission": "6 speed manual"
+  "brand": "CFMoto"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6152"
-  },
   "": 156,
   "name": "CFMoto 650MT",
-  "brand": "CFMoto",
-  "price": 529000,
-  "max torque": 54.4,
-  "transmission": "6 speed manual"
+  "brand": "CFMoto"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6153"
-  },
   "": 157,
   "name": "Ducati Panigale V4",
-  "brand": "Ducati",
-  "price": 2741000,
-  "max torque": 123.6,
-  "transmission": "6 speed manual"
+  "brand": "Ducati"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6154"
-  },
   "": 158,
   "name": "Ducati SuperSport",
-  "brand": "Ducati",
-  "price": 1575000,
-  "max torque": 93,
-  "transmission": "6 speed manual"
+  "brand": "Ducati"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6155"
-  },
   "": 159,
   "name": "Ducati Monster BS6",
-  "brand": "Ducati",
-  "price": 1249000,
-  "max torque": 93,
-  "transmission": "6 speed manual"
+  "brand": "Ducati"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6156"
-  },
   "": 160,
   "name": "Scrambler",
-  "brand": "Ducati",
-  "price": 939000,
-  "max torque": 66.2,
-  "transmission": "6 speed manual"
+  "brand": "Ducati"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6157"
-  },
   "": 161,
   "name": "Ducati Streetfighter V4",
-  "brand": "Ducati",
-  "price": 2215000,
-  "max torque": 123,
-  "transmission": "6 speed manual"
+  "brand": "Ducati"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6158"
-  },
   "": 162,
   "name": "Ducati Panigale V2",
-  "brand": "Ducati",
-  "price": 2026450,
-  "max torque": 104,
-  "transmission": "6 speed manual"
+  "brand": "Ducati"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6159"
-  },
   "": 163,
   "name": "Ducati XDiavel",
-  "brand": "Ducati",
-  "price": 2120000,
-  "max torque": 127.4,
-  "transmission": "6 speed manual"
+  "brand": "Ducati"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b615a"
-  },
   "": 164,
   "name": "Ducati Streetfighter V2",
-  "brand": "Ducati",
-  "price": 1810000,
-  "max torque": 101.4,
-  "transmission": "6 speed manual"
+  "brand": "Ducati"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b615b"
-  },
   "": 165,
   "name": "Ducati Diavel 1260",
-  "brand": "Ducati",
-  "price": 2149000,
-  "max torque": 129,
-  "transmission": "6 speed manual"
+  "brand": "Ducati"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b615c"
-  },
   "": 166,
   "name": "Scrambler",
-  "brand": "Ducati",
-  "price": 1169000,
-  "max torque": 66.2,
-  "transmission": "6 speed manual"
+  "brand": "Ducati"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b615d"
-  },
   "": 167,
   "name": "Ducati Hypermotard 950",
-  "brand": "Ducati",
-  "price": 1560000,
-  "max torque": 96,
-  "transmission": "6 speed manual"
+  "brand": "Ducati"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b615e"
-  },
   "": 168,
   "name": "Ducati Multistrada V4",
-  "brand": "Ducati",
-  "price": 2148000,
-  "max torque": 125,
-  "transmission": "6 speed manual"
+  "brand": "Ducati"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b615f"
-  },
   "": 169,
   "name": "Scrambler",
-  "brand": "Ducati",
-  "price": 1340000,
-  "max torque": 88,
-  "transmission": "6 speed manual"
+  "brand": "Ducati"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6160"
-  },
   "": 170,
   "name": "Ducati Multistrada V2",
-  "brand": "Ducati",
-  "price": 1605000,
-  "max torque": 96,
-  "transmission": "6 speed manual"
+  "brand": "Ducati"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6161"
-  },
   "": 171,
   "name": "Scrambler",
-  "brand": "Ducati",
-  "price": 1199000,
-  "max torque": 66.2,
-  "transmission": "6 speed manual"
+  "brand": "Ducati"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6162"
-  },
   "": 172,
   "name": "Ducati Scrambler Desert Sled",
-  "brand": "Ducati",
-  "price": 1259000,
-  "max torque": 66.2,
-  "transmission": "6 speed manual"
+  "brand": "Ducati"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6163"
-  },
   "": 173,
   "name": "Husqvarna Svartpilen 250",
-  "brand": "Husqvarna",
-  "price": 217632,
-  "max torque": 24,
-  "transmission": "6 speed manual"
+  "brand": "Husqvarna"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6164"
-  },
   "": 174,
   "name": "Husqvarna Vitpilen 250",
-  "brand": "Husqvarna",
-  "price": 217074,
-  "max torque": 24,
-  "transmission": "6 speed manual"
+  "brand": "Husqvarna"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6165"
-  },
   "": 175,
   "name": "Triumph Rocket 3",
-  "brand": "Triumph",
-  "price": 2019312,
-  "max torque": 221,
-  "transmission": "6 speed manual"
+  "brand": "Triumph"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6166"
-  },
   "": 176,
   "name": "Triumph Trident 660",
-  "brand": "Triumph",
-  "price": 758000,
-  "max torque": 64,
-  "transmission": "6 speed manual"
+  "brand": "Triumph"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6167"
-  },
   "": 177,
   "name": "Triumph Speed Triple 1200 RS",
-  "brand": "Triumph",
-  "price": 1795000,
-  "max torque": 125,
-  "transmission": "6 speed manual"
+  "brand": "Triumph"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6168"
-  },
   "": 178,
   "name": "Triumph Tiger 900",
-  "brand": "Triumph",
-  "price": 1399865,
-  "max torque": 87,
-  "transmission": "6 speed manual"
+  "brand": "Triumph"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6169"
-  },
   "": 179,
   "name": "Bonneville",
-  "brand": "Triumph",
-  "price": 1285000,
-  "max torque": 106,
-  "transmission": "6 speed manual"
+  "brand": "Triumph"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b616a"
-  },
   "": 180,
   "name": "Triumph Speed Twin 900",
-  "brand": "Triumph",
-  "price": 879006,
-  "max torque": 80,
-  "transmission": "5 speed manual"
+  "brand": "Triumph"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b616b"
-  },
   "": 181,
   "name": "Triumph Scrambler 900",
-  "brand": "Triumph",
-  "price": 989006,
-  "max torque": 80,
-  "transmission": "5 speed manual"
+  "brand": "Triumph"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b616c"
-  },
   "": 182,
   "name": "Triumph Speed Twin",
-  "brand": "Triumph",
-  "price": 1122000,
-  "max torque": 112,
-  "transmission": "6 speed manual"
+  "brand": "Triumph"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b616d"
-  },
   "": 183,
   "name": "Bonneville",
-  "brand": "Triumph",
-  "price": 1139000,
-  "max torque": 105,
-  "transmission": "6 speed manual"
+  "brand": "Triumph"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b616e"
-  },
   "": 184,
   "name": "Bonneville",
-  "brand": "Triumph",
-  "price": 1285000,
-  "max torque": 106,
-  "transmission": "6 speed manual"
+  "brand": "Triumph"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b616f"
-  },
   "": 185,
   "name": "Triumph Bonneville T100",
-  "brand": "Triumph",
-  "price": 1004000,
-  "max torque": 80,
-  "transmission": "5 speed manual"
+  "brand": "Triumph"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6170"
-  },
   "": 186,
   "name": "Triumph Tiger 850 Sport",
-  "brand": "Triumph",
-  "price": 1195000,
-  "max torque": 82,
-  "transmission": "6 speed manual"
+  "brand": "Triumph"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6171"
-  },
   "": 187,
   "name": "Vespa ZX 125",
-  "brand": "Vespa",
-  "price": 116135,
-  "max torque": 9.6,
-  "transmission": "automatic"
+  "brand": "Vespa"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6172"
-  },
   "": 188,
   "name": "Vespa SXL 125",
-  "brand": "Vespa",
-  "price": 134313,
-  "max torque": 9.6,
-  "transmission": "automatic"
+  "brand": "Vespa"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6173"
-  },
   "": 189,
   "name": "Vespa SXL 150",
-  "brand": "Vespa",
-  "price": 148261,
-  "max torque": 10.6,
-  "transmission": "automatic"
+  "brand": "Vespa"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6174"
-  },
   "": 190,
   "name": "Vespa VXL 125",
-  "brand": "Vespa",
-  "price": 130438,
-  "max torque": 9.6,
-  "transmission": "automatic"
+  "brand": "Vespa"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6175"
-  },
   "": 191,
   "name": "Vespa VXL 150",
-  "brand": "Vespa",
-  "price": 143895,
-  "max torque": 10.6,
-  "transmission": "automatic"
+  "brand": "Vespa"
 },
 {
-  "_id": {
-    "$oid": "65e08f2df6242b95e15b6176"
-  },
   "": 192,
   "name": "Vespa Elegante 150",
-  "brand": "Vespa",
-  "price": 155927,
-  "max torque": 10.6,
-  "transmission": "automatic"
+  "brand": "Vespa"
 }]
