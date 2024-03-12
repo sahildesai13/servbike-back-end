@@ -1,0 +1,432 @@
+[{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc14"
+  },
+  "ServiceType": "MasterBikeService",
+  "ServiceName": "Comprehensive Full Bike Service",
+  "Part": "Full Bike",
+  "Price": 2500
+},
+{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc15"
+  },
+  "ServiceType": "MasterBikeService",
+  "ServiceName": "Additional Service 2",
+  "Part": "Full Bike",
+  "Price": 500
+},
+{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc16"
+  },
+  "ServiceType": "MasterBikeService",
+  "ServiceName": "Additional Service 1",
+  "Part": "Full Bike",
+  "Price": 300
+},
+{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc17"
+  },
+  "ServiceType": "OilChange",
+  "ServiceName": "Regular Oil Change",
+  "Part": "Engine",
+  "Price": 500
+},
+{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc18"
+  },
+  "ServiceType": "OilChange",
+  "ServiceName": "High-Performance Oil Change",
+  "Part": "Engine",
+  "Price": 800
+},
+{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc19"
+  },
+  "ServiceType": "OilChange",
+  "ServiceName": "Synthetic Oil Change",
+  "Part": "Engine",
+  "Price": 1200
+},
+{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc1a"
+  },
+  "ServiceType": "TireReplacement",
+  "ServiceName": "Standard Tire Replacement",
+  "Part": "Wheels",
+  "Price": 1500
+},
+{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc1b"
+  },
+  "ServiceType": "TireReplacement",
+  "ServiceName": "Custom Tire Replacement",
+  "Part": "Wheels",
+  "Price": 2500
+},
+{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc1c"
+  },
+  "ServiceType": "TireRepair",
+  "ServiceName": "Flat Tire Repair",
+  "Part": "Wheels",
+  "Price": 300
+},
+{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc1d"
+  },
+  "ServiceType": "BrakeService",
+  "ServiceName": "Brake Pad Replacement",
+  "Part": "Brake System",
+  "Price": 800
+},
+{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc1e"
+  },
+  "ServiceType": "BrakeService",
+  "ServiceName": "Brake Fluid Flush",
+  "Part": "Brake System",
+  "Price": 500
+},
+{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc1f"
+  },
+  "ServiceType": "BrakeService",
+  "ServiceName": "Brake Caliper Maintenance",
+  "Part": "Brake System",
+  "Price": 1000
+},
+{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc20"
+  },
+  "ServiceType": "ChainMaintenance",
+  "ServiceName": "Chain Lubrication",
+  "Part": "Chain System",
+  "Price": 200
+},
+{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc21"
+  },
+  "ServiceType": "ChainMaintenance",
+  "ServiceName": "Chain Replacement",
+  "Part": "Chain System",
+  "Price": 1000
+},
+{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc22"
+  },
+  "ServiceType": "ChainMaintenance",
+  "ServiceName": "Sprocket Alignment",
+  "Part": "Chain System",
+  "Price": 300
+},
+{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc23"
+  },
+  "ServiceType": "TuneUp",
+  "ServiceName": "Standard Tune-Up",
+  "Part": "Engine",
+  "Price": 1000
+},
+{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc24"
+  },
+  "ServiceType": "TuneUp",
+  "ServiceName": "Performance Tune-Up",
+  "Part": "Engine",
+  "Price": 1500
+},
+{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc25"
+  },
+  "ServiceType": "TuneUp",
+  "ServiceName": "Electrical System Check",
+  "Part": "Electrical System",
+  "Price": 500
+},
+{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc26"
+  },
+  "ServiceType": "SuspensionService",
+  "ServiceName": "Fork Oil Change",
+  "Part": "Suspension System",
+  "Price": 700
+},
+{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc27"
+  },
+  "ServiceType": "SuspensionService",
+  "ServiceName": "Shock Absorber Adjustment",
+  "Part": "Suspension System",
+  "Price": 400
+},
+{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc28"
+  },
+  "ServiceType": "SuspensionService",
+  "ServiceName": "Full Suspension Overhaul",
+  "Part": "Suspension System",
+  "Price": 1500
+},
+{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc29"
+  },
+  "ServiceType": "FrameAlignment",
+  "ServiceName": "Frame Straightening",
+  "Part": "Frame",
+  "Price": 1000
+},
+{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc2a"
+  },
+  "ServiceType": "FrameAlignment",
+  "ServiceName": "Wheel Alignment",
+  "Part": "Frame",
+  "Price": 800
+},
+{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc2b"
+  },
+  "ServiceType": "SafetyInspection",
+  "ServiceName": "Pre-Ride Safety Inspection",
+  "Part": "Full Bike",
+  "Price": 300
+},
+{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc2c"
+  },
+  "ServiceType": "SafetyInspection",
+  "ServiceName": "Annual Maintenance Check",
+  "Part": "Full Bike",
+  "Price": 500
+},
+{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc2d"
+  },
+  "ServiceType": "Customization",
+  "ServiceName": "Handlebar Upgrade",
+  "Part": "Handlebar",
+  "Price": 600
+},
+{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc2e"
+  },
+  "ServiceType": "Customization",
+  "ServiceName": "Exhaust System Modification",
+  "Part": "Exhaust System",
+  "Price": 1200
+},
+{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc2f"
+  },
+  "ServiceType": "Customization",
+  "ServiceName": "LED Lighting Installation",
+  "Part": "Electrical System",
+  "Price": 800
+},
+{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc30"
+  },
+  "ServiceType": "CleaningDetailing",
+  "ServiceName": "Exterior Wash and Wax",
+  "Part": "Full Bike",
+  "Price": 300
+},
+{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc31"
+  },
+  "ServiceType": "CleaningDetailing",
+  "ServiceName": "Chrome Polishing",
+  "Part": "Chrome Parts",
+  "Price": 400
+},
+{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc32"
+  },
+  "ServiceType": "CleaningDetailing",
+  "ServiceName": "Interior Cleaning",
+  "Part": "Full Bike",
+  "Price": 200
+},
+{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc33"
+  },
+  "ServiceType": "WheelAlignment",
+  "ServiceName": "Front Wheel Alignment",
+  "Part": "Wheels",
+  "Price": 400
+},
+{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc34"
+  },
+  "ServiceType": "WheelAlignment",
+  "ServiceName": "Rear Wheel Alignment",
+  "Part": "Wheels",
+  "Price": 400
+},
+{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc35"
+  },
+  "ServiceType": "EngineDiagnostic",
+  "ServiceName": "Check Engine Light Diagnosis",
+  "Part": "Engine",
+  "Price": 600
+},
+{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc36"
+  },
+  "ServiceType": "EngineDiagnostic",
+  "ServiceName": "Performance Tuning",
+  "Part": "Engine",
+  "Price": 1000
+},
+{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc37"
+  },
+  "ServiceType": "BatteryReplacement",
+  "ServiceName": "Battery Installation",
+  "Part": "Electrical System",
+  "Price": 800
+},
+{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc38"
+  },
+  "ServiceType": "BatteryReplacement",
+  "ServiceName": "Battery Charging",
+  "Part": "Electrical System",
+  "Price": 300
+},
+{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc39"
+  },
+  "ServiceType": "FuelSystemService",
+  "ServiceName": "Fuel Injector Cleaning",
+  "Part": "Fuel System",
+  "Price": 500
+},
+{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc3a"
+  },
+  "ServiceType": "FuelSystemService",
+  "ServiceName": "Fuel Pump Replacement",
+  "Part": "Fuel System",
+  "Price": 1200
+},
+{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc3b"
+  },
+  "ServiceType": "ElectricalRepair",
+  "ServiceName": "Starter Motor Repair",
+  "Part": "Electrical System",
+  "Price": 1000
+},
+{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc3c"
+  },
+  "ServiceType": "ElectricalRepair",
+  "ServiceName": "Headlight Bulb Replacement",
+  "Part": "Electrical System",
+  "Price": 200
+},
+{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc3d"
+  },
+  "ServiceType": "CoolingSystemService",
+  "ServiceName": "Radiator Flush",
+  "Part": "Cooling System",
+  "Price": 600
+},
+{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc3e"
+  },
+  "ServiceType": "CoolingSystemService",
+  "ServiceName": "Thermostat Replacement",
+  "Part": "Cooling System",
+  "Price": 800
+},
+{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc3f"
+  },
+  "ServiceType": "CoolingSystemService",
+  "ServiceName": "Coolant Leak Repair",
+  "Part": "Cooling System",
+  "Price": 400
+},
+{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc40"
+  },
+  "ServiceType": "TransmissionService",
+  "ServiceName": "Transmission Fluid Change",
+  "Part": "Transmission System",
+  "Price": 700
+},
+{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc41"
+  },
+  "ServiceType": "TransmissionService",
+  "ServiceName": "Clutch Adjustment",
+  "Part": "Transmission System",
+  "Price": 300
+},
+{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc42"
+  },
+  "ServiceType": "TransmissionService",
+  "ServiceName": "Gearbox Inspection",
+  "Part": "Transmission System",
+  "Price": 500
+},
+{
+  "_id": {
+    "$oid": "65e9bcae048bc56458cafc43"
+  },
+  "ServiceType": "ExhaustSystemService",
+  "ServiceName": "Catalytic Converter Cleaning",
+  "Part": "Exhaust System",
+  "Price": 600
+}]
